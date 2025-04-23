@@ -4,3 +4,6 @@
 [submodule "AGa_Task02"]
 	path = AGa_Task02
 	url = https://github.com/hamsterofyoursdreams/AGa_Task02.git
+[submodule "AGa_Task03"]
+	path = AGa_Task03
+	url = https://github.com/hamsterofyoursdreams/AGa_Task03
